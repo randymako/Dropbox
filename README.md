@@ -11,6 +11,7 @@ Issue: I have one error at the end that does not seem to affect the app, will po
 -----------------------
 
 Hours: ~13
+
 Completed Stories:
   1. Setup
   2. Welcome Screen
